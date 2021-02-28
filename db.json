@@ -1,0 +1,82 @@
+[
+{
+"name":"Janna",
+"id":1,
+"url":"https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Cat_Janna.jpg/170px-Cat_Janna.jpg"
+"breed":"Russian Blue",
+"description":"",
+"location":"Lagos,Nigeria",
+"color":"Grey",
+"fee":"1000"
+},
+{
+"name":"Kitty",
+"id":2,
+"url":"https://upload.wikimedia.org/wikipedia/commons/1/15/White_Persian_Cat.jpg"
+"breed":"Persian cat",
+"description":"",
+"location":"Abuja,Nigeria",
+"color":"White",
+"fee":"1200"
+},
+{
+"name":"Leo",
+"id":3,
+"url":"https://cdn.hswstatic.com/gif/persian-cat-1.jpg"
+"breed":"Persian cat",
+"description":"",
+"location":"Ph,Nigeria",
+"color":"White",
+"fee":"1200"
+},
+{
+"name":"Milo",
+"id":4,
+"url":"https://vetstreet.brightspotcdn.com/dims4/default/7cc218c/2147483647/thumbnail/645x380/quality/90/?url=https%3A%2F%2Fvetstreet-brightspot.s3.amazonaws.com%2Fa5%2F69%2Fe639b7ab40c2a290e3296de726d8%2FPersian-AP-PIFN6J-645sm3614.jpg"
+"breed":"Persian cat",
+"description":"",
+"location":"Ph,Nigeria",
+"color":"Gold",
+"fee":"1200"
+},
+{
+"name":"Lucuy",
+"id":5,
+"url":"https://trupanion.com/-/media/trupanion/images/breed--guide--new/bengal/bengal-cat.jpg?la=en&hash=6BF0EEDC7DDCDDE7C9184D44BA9B2920F345BFA2"
+"breed":"Bengal cat",
+"description":"",
+"location":"Ph,Nigeria",
+"color":"Gold",
+"fee":"1500"
+},
+{
+"name":"Bella",
+"id":6,
+"url":"https://upload.wikimedia.org/wikipedia/commons/5/56/JapaneseBobtailBlueEyedMi-ke.JPG"
+"breed":"Japan Boptail",
+"description":"",
+"location":"Zaria,Nigeria",
+"color":"Black",
+"fee":"1500"
+},
+{
+"name":"Charlie",
+"id":7,
+"url":"https://www.holidogtimes.com/wp-content/uploads/2018/01/japanese-bobtail-breed.png"
+"breed":"Japan Boptail",
+"description":"",
+"location":"Uyo,Nigeria",
+"color":"Black",
+"fee":"1300"
+},
+{
+"name":"Jack",
+"id":8	,
+"url":"https://d17fnq9dkz9hgj.cloudfront.net/breed-uploads/2018/08/korat-card-small.jpg?bust=1535569742"
+"breed":"Korat",
+"description":"",
+"location":"Awka,Nigeria",
+"color":"White",
+"fee":"1300"
+}
+]
