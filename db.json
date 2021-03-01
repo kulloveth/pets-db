@@ -9,11 +9,11 @@
 "location":"Lagos Nigeria",
 "color":"Grey",
 "fee":"1000",
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 },
 {
 "name":"Kitty",
@@ -24,11 +24,11 @@
 "location":"Abuja Nigeria",
 "color":"White",
 "fee":"1200",
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 },
 {
 "name":"Leo",
@@ -39,11 +39,11 @@
 "location":"Ph Nigeria",
 "color":"White",
 "fee":"1200",
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 },
 {
 "name":"Milo",
@@ -54,11 +54,11 @@
 "location":"Ph Nigeria",
 "color":"Gold",
 "fee":"1200",
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 },
 {
 "name":"Lucuy",
@@ -69,11 +69,11 @@
 "location":"Enugu Nigeria",
 "color":"Gold",
 "fee":"1500",
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 },
 {
 "name":"Bella",
@@ -84,11 +84,11 @@
 "location":"Zaria Nigeria",
 "color":"Black",
 "fee":"1500",
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 },
 {
 "name":"Charlie",
@@ -99,11 +99,11 @@
 "location":"Uyo Nigeria",
 "color":"Black",
 "fee":"1300,
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 },
 {
 "name":"Jack",
@@ -114,11 +114,11 @@
 "location":"Awka Nigeria",
 "color":"White",
 "fee":"1300",
-"owner":[
+"owner":{
 "name":"",
 "photo_url":"",
 "comment":""
-]
+}
 }],
 "dogs":[]
 }
